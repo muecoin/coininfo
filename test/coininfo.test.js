@@ -11,6 +11,7 @@ test('+ coininfo()', function (t) {
       'nbt',
       'nmc',
       'ppc',
+      'mue',
       'rdd', 'rdd-test',
       'mona', 'mona-test'
     ]
