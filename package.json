@@ -27,7 +27,7 @@
     "tape": "^4.8.0"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/coininfo",
+    "url": "https://github.com/muecoin/coininfo",
     "type": "git"
   },
   "main": "./lib/coininfo.js",
